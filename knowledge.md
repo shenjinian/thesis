@@ -85,7 +85,7 @@
 
 5.1 github注册账号：用stu.cpu.edu.cn的邮箱注册账号，https://github.com/
 
-5.2 git常见命令与操作（参考：https://github.com/bg6cq/learngit）
+5.2 git常见命令与操作（参考：https://github.com/bg6cq/learngit )
 
 
 
