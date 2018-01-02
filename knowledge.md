@@ -8,7 +8,7 @@
 
 1.3 操作系统：CentOS 6.X 64位最小化安装 
 
-1.4 SSH终端
+1.4 常用工具
 
 1.5 论文讨论及写作环境：github
 
@@ -76,10 +76,15 @@
     OpenVPN
     sendmail
 
-4 SSH终端
+4 常用工具
 
-4.1 Xshell和Xftp等
+4.1 SSH终端：Xshell和Xftp等
 
+4.2 文本编辑：Notepad++和MarkdownPad2等
+
+4.3 画图：Viso或亿图
+
+4.4 抓包：Wireshark
 
 5 Git
 
