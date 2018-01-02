@@ -26,36 +26,36 @@
     mkdir（mkdir -p）
     cp
     rm（rm -f）
-	more
-	tail（tail -f）
-	cat
-	mv
-	pwd
-	tar（tar zxvf） 
-	mount和umount
-	passwd
-	wget
+    more
+    tail（tail -f）
+    cat
+    mv
+    pwd
+    tar（tar zxvf） 
+    mount和umount
+    passwd
+    wget
 	
 3.4 高级命令
-	scp
-	nohup
-	crond（crontab -e 和 crontab -l）
-	chkconfig
+    scp
+    nohup
+    crond（crontab -e 和 crontab -l）
+    chkconfig
     重导与管道
     shell三剑客：grep+sed+awk
     文本处理：sort+uniq+cut+wc
 3.5 常见协议
     SSH
-	DHCP
-	SNMP
+    DHCP
+    SNMP
     DNS
-	SMB
-	HTTP
+    SMB
+    HTTP
 3.6 常见开源软件	
     Nginx
     Bind
-	OpenVPN
-	sendmail
+    OpenVPN
+    sendmail
 
 
 
